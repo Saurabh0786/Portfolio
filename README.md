@@ -1,7 +1,7 @@
 # Portfolio
 
 # About Project:-
-I had made Portfolio as I started as Beginners. It is a responsive design. I have create responsive navigation bar with Mobile hamburger menu. I have made button in which on click you can download resume pdf. 
+I had made Portfolio as I started as Beginner. It is a responsive design. I have created responsive navigation bar with Mobile hamburger menu. I have made button in which on click you can download resume pdf. 
 
 # Tech Stack Used:-
 HTML, CSS
